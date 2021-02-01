@@ -69,7 +69,7 @@ As the name suggests, free website hosting is a free non-paid web hosting servic
 
  ### 13. Alwaysdata<br>
  alwaysdata owns its own infrastructure, including — but not limited to — servers, racks, network equipment, and everything needed to run our platform. We operate our independent network (AS60362). This guarantees have a full end-to-end control. For customers, this is a guarantee of privacy, security, performance, and excellent quality of service. [(https:alwaysdata.com)](https:alwaysdata.com)<br><br>
- <img src="img/.PNG" width="500"><br><br>
+ <img src="img/alwaysdata.PNG" width="500"><br><br>
  
  
 
