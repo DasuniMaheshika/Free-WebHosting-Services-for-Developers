@@ -66,6 +66,10 @@ As the name suggests, free website hosting is a free non-paid web hosting servic
  ### 12. Freehostia<br>
  Freehostia's load-balanced cluster platform has proven to be faster than the widespread one-server hosting platform solution. Their web hosting plans are optimized to work with the most popular PHP web applications: Joomla, WordPress, PrestaShop. They have provided 50 other free applications by their in-house built 1-Click Web Applications Installer. At Freehostia, they offer a variety of web hosting services, from free hosting accounts all the way to VPS and dedicated servers. [(https://freehostia.com/)](https://freehostia.com/)<br><br>
  <img src="img/freehostia.PNG" width="500"><br><br>
+
+ ### 13. Alwaysdata<br>
+ alwaysdata owns its own infrastructure, including — but not limited to — servers, racks, network equipment, and everything needed to run our platform. We operate our independent network (AS60362). This guarantees have a full end-to-end control. For customers, this is a guarantee of privacy, security, performance, and excellent quality of service. [(https:alwaysdata.com)](https:alwaysdata.com)<br><br>
+ <img src="img/.PNG" width="500"><br><br>
  
  
 
